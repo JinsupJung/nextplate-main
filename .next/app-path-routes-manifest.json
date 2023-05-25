@@ -1,0 +1,17 @@
+{
+  "/_not-found": "/_not-found",
+  "/page": "/",
+  "/[regular]/page": "/[regular]",
+  "/about/page": "/about",
+  "/authors/page": "/authors",
+  "/blog/page": "/blog",
+  "/categories/page": "/categories",
+  "/contact/page": "/contact",
+  "/search/page": "/search",
+  "/tags/page": "/tags",
+  "/authors/[single]/page": "/authors/[single]",
+  "/categories/[single]/page": "/categories/[single]",
+  "/tags/[single]/page": "/tags/[single]",
+  "/blog/[single]/page": "/blog/[single]",
+  "/blog/page/[page]/page": "/blog/page/[page]"
+}
